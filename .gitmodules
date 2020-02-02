@@ -1,0 +1,4 @@
+[submodule "Imports/GTestLib"]
+	path = Imports/GTestLib
+	url = https://github.com/sfoxover/GTestLib.git
+	branch = master
